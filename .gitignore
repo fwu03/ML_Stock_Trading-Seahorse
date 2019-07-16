@@ -1,0 +1,11 @@
+*ipynb_checkpoints*
+*DS_Store*
+*Train.ipynb*
+*Prediction.ipynb*
+Functions/__pycache__
+data/
+gl/
+Functions/tests/*.ipynb
+Train_data/
+Test_data/
+Prediction/
